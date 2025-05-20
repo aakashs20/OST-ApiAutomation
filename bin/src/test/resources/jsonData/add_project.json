@@ -1,0 +1,8 @@
+{
+	"userPk": 89,
+	"userName": "eliv_user1",
+	"name": "{{name}}",
+	"description": "{{description}}",
+	"timelineUnitEnumFk": 1,
+	"programFk": "{{programFk}}"
+}

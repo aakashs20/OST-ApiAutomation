@@ -1,0 +1,10 @@
+{
+	"userPk": 89,
+	"projectPk": "{{projectPk}}",
+	"sysModelDesignVersionPk": "{{sysModelDesignVersionPk}}",
+	"ciName": "CII_Auto",
+	"ciDescription": "CII_Auto",
+	"ciTypePk": 2,
+	"objectDesignTypeEnumPk": 2,
+	"osTypeEnumPk": 1
+}
